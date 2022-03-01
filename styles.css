@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Heaters', sans-serif;
+  font-size: 5rem;
+  letter-spacing: 0.5rem;
+  margin: 0;
+}
+
+p {
+  margin: 0;
+}
+
+/* Containers */
+
+.container {
+  padding: 7% 0;
+}
+
+.colored-container {
+  background-color: #89d2a3;
+  color: white;
+}
+
+/* Specific elements and containers */
+
+header.container {
+  padding: 3% 0 7%;
+}
+
+.b-letter {
+  color: #ffc8c4;
+}
